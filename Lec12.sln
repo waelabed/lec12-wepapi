@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lec12", "Lec12\Lec12.csproj", "{E49C9E5D-64BF-4F54-96CA-5A7FF83581CF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeWepApi-html", "ConsumeWepApi-html\ConsumeWepApi-html.csproj", "{5B0A7E33-6A5A-4B99-A543-43B65AFE7FF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consume-wepApi-consule", "Consume-wepApi-consule\Consume-wepApi-consule.csproj", "{34F9F58E-FFE4-4FFA-8006-BD0174EABF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consume-wepapi-in-mvc", "consume-wepapi-in-mvc\consume-wepapi-in-mvc.csproj", "{7227FC8D-D372-4C0D-9211-C9A36F28FC5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{34F9F58E-FFE4-4FFA-8006-BD0174EABF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34F9F58E-FFE4-4FFA-8006-BD0174EABF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34F9F58E-FFE4-4FFA-8006-BD0174EABF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7227FC8D-D372-4C0D-9211-C9A36F28FC5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7227FC8D-D372-4C0D-9211-C9A36F28FC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7227FC8D-D372-4C0D-9211-C9A36F28FC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7227FC8D-D372-4C0D-9211-C9A36F28FC5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
